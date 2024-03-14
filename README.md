@@ -1,5 +1,7 @@
 # Product Catalogue
 
+This product catalogue project displays a list of products retrieved from the Fake Store API.
+
 ## Table of Contents
 
 1. [Objective](#objective)
